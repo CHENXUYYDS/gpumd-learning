@@ -1,0 +1,38 @@
+{
+  "version": "1.0.2",
+  "created_utc": "2026-11-03T08:21:13+00:00",
+  "query": {
+    "elements": [
+      "Al",
+      "Cu",
+      "Mg",
+      "Si"
+    ],
+    "mode": "subsystems",
+    "include_deprecated": false,
+    "stable_only": false
+  },
+  "query_utc": "2026-11-03T08:20:12+00:00",
+  "matched_materials": 846,
+  "downloaded": 846,
+  "pending": 0,
+  "failed": 0,
+  "all_matched_cifs_present": true,
+  "systems_with_results": [
+    "Al",
+    "Al-Cu",
+    "Al-Cu-Mg",
+    "Al-Cu-Mg-Si",
+    "Al-Mg",
+    "Al-Mg-Si",
+    "Al-Si",
+    "Cu",
+    "Cu-Mg",
+    "Cu-Mg-Si",
+    "Cu-Si",
+    "Mg",
+    "Mg-Si",
+    "Si"
+  ],
+  "structure_scope": "One summary structure per matching material ID; no initial/task history."
+}
